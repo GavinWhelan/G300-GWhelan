@@ -13,3 +13,9 @@ URL:          https://www.turbosquid.com/FullPreview/Index.cfm/ID/837069
 Creator:      Austro
 
 Also used: Unreal Engine StarterContent (Creator unknown)
+
+
+
+Level tips:
+-Press "enter" while near the glowing panel to open and close the maintenance door.
+-Hold space to jump higher.
